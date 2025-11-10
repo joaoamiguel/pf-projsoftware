@@ -1,0 +1,8 @@
+com\example\pf_profsoftware\Curso\CursoService.class
+com\example\pf_profsoftware\config\WebSecurityConfig.class
+com\example\pf_profsoftware\Curso\Curso.class
+com\example\pf_profsoftware\Curso\CursoRequest.class
+com\example\pf_profsoftware\Curso\CursoResponse.class
+com\example\pf_profsoftware\CursoApplication.class
+com\example\pf_profsoftware\Curso\CursoController.class
+com\example\pf_profsoftware\Curso\CursoRepository.class
