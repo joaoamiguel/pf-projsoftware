@@ -35,7 +35,6 @@ public class Curso {
         this.nomeProfessor = nomeProfessor;
     }
 
-    // getters e setters
     public Long getId() { return id; }
     public void setId(Long id) { this.id = id; }
 
